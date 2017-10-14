@@ -1,0 +1,3 @@
+# Subtopic-Mining
+
+Lucene required.
