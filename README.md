@@ -1,3 +1,3 @@
 # Subtopic-Mining
 
-Lucene required.
+Lucene and IKAnalyzer required.
